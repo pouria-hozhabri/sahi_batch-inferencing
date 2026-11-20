@@ -4,7 +4,7 @@
 
 ## project at glance
 
-![Car Detection Example](assets/car_detection_example.png)
+![Car Detection Example](assets/car_detection_example2.png)
 
 This project implements a Slicing-Aided Hyper Inference (SAHI) workflow with a particular focus on **batch inference**. Large images are divided into overlapping tiles, multiple tiles are sent to the YOLO model together, and detections from all tiles are mapped back and merged into one set of detections for the original image or video frame.
 
