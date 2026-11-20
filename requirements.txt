@@ -1,0 +1,6 @@
+# Core dependencies
+numpy
+opencv-python
+torch
+ultralytics
+shapely
